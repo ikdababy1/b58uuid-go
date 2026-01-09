@@ -1,0 +1,83 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.out
+coverage.txt
+*.coverprofile
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# Go build cache
+*.a
+*.o
+
+# Compiled binaries
+b58uuid-cli
+b58uuid-cli.exe
+b58uuid
+*.bin
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-*
+.project
+.classpath
+.settings/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Project specific
+dist/
+build/
+bin/
+pkg/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Logs
+*.log
+
+# Profiling files
+*.prof
+*.pprof
+cpu.prof
+mem.prof
+profile.out
+
+# Benchmark results
+benchmarks/results/
+*.bench
+
+# Documentation
+docs/_build/
