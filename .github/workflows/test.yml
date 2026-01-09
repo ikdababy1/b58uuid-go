@@ -2,7 +2,8 @@ name: Tests
 
 on:
   push:
-    branches: [ main ]
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'  # Matches tags like v1.0.0, v1.2.3, etc. (with 'v' prefix for Go)
   pull_request:
     branches: [ main ]
 
