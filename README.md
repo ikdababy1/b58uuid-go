@@ -1,5 +1,9 @@
 # B58UUID for Go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/b58uuid/b58uuid-go.svg)](https://pkg.go.dev/github.com/b58uuid/b58uuid-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/b58uuid/b58uuid-go)](https://goreportcard.com/report/github.com/b58uuid/b58uuid-go)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Base58-encoded UUID library for Go with zero dependencies.
 
 ## Installation
